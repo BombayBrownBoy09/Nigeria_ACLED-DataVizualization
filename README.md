@@ -8,7 +8,7 @@ This is an exploratory data analysis on Newsfeed and ACLED Data of Nigeria in 20
 *  If we were to prioritize ‘Violence against Civilians’ as a key metric for peace keeping, we find that the monthly trend in violent acts peaks in February and tapers of drastically from 119 in February to 44 in December.
 
 <img width="259" alt="image" src="https://user-images.githubusercontent.com/67541365/154088987-5edcf55a-ff29-4809-aff2-995dda494621.png">
-## On investigating further about the fatalities of civilians due to each of these events, we notice that greater than 100 people died due to ‘violence against civilians (VAC)’ acts from January to July 2019. Also note that January had the least number of VAC events (i.e. 37) but still led to 118 deaths and March with 70 such events had the most deaths (i.e. 332)
+* On investigating further about the fatalities of civilians due to each of these events, we notice that greater than 100 people died due to ‘violence against civilians (VAC)’ acts from January to July 2019. Also note that January had the least number of VAC events (i.e. 37) but still led to 118 deaths and March with 70 such events had the most deaths (i.e. 332)
 
 <img width="370" alt="image" src="https://user-images.githubusercontent.com/67541365/154089124-db9a3c89-fe7e-4fa3-8d00-281f81180f7a.png">
 * Now we must know who the main named actors behind these violent acts against civilians are. We see that Unidentified armed groups Nigeria (310 events), followed by Fulani Ethnic Militia Nigeria (102 events) led to most events.
