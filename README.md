@@ -29,7 +29,8 @@ Data was analyzed using the ‘pandas’ library in Python3 and interactive visu
 On cleaning, plotting n grams and collecting all the text in the short and long descriptions, we find that kill, attack, haram, ago and min are the most frequently used words by news sources in short descriptions as seen in word cloud below. Furthermore, the most common bigrams in the text are ‘min ago’ and ‘boko haram’. This is indicative of the fact that many events have something to do with the terrorist organization. Other common words include Sri Lanka, haram attack, build collapse, gunmen kill which give us more insight into the gruesome nature of events. On studying the 3 grams we see that the ‘news min ago’ is a common phrase in the description which shows that there may be little lag between news being received by the source and it being published on their websites. 
  I also extracted features from each short description (as unigrams and bigrams) using TFIDF Vectorizer to correlate with the type of incident as shown below. Governance related events involve race (politicical), crackdowns (of terrorist actors), inspection (of events) and overturning (existing authorities). With bigrams we see that often Governance related events have something to do with elections, media bills, the Nigerian President and Buhari (a retired Nigerian Army Major General). In this manner we can tie a rough outline around each Incident type and know of its nature as revealed by n grams:
 for e.g. 
-* Description Category 'Governance':
+
+Description Category 'Governance':
 
 Most correlated unigrams:
 	. crackdown, race, intensify, overturn, inspect
